@@ -4,6 +4,7 @@ With a solid foundation in **leadership**, **problem-solving**, and **communicat
 
 ---
 
+
 ## About me 💜
 
 - 🎯 Strategic QA in career transition, with experience across multiple areas of software quality
@@ -19,6 +20,7 @@ With a solid foundation in **leadership**, **problem-solving**, and **communicat
 - 💬 Soft skills: attention to detail, clear communication, adaptability, persistence, collaboration, and continuous improvement mindset.
 
 ---
+
 
 ## 🛠️ Technologies and Tools
 
@@ -41,6 +43,7 @@ With a solid foundation in **leadership**, **problem-solving**, and **communicat
 
 
 ---
+
 
 ## 🤝 Let’s Connect!
 
